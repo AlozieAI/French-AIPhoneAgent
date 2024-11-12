@@ -6,7 +6,7 @@ To Keep conistency and make sure the that the Voicebot didnt drift to speak engl
 
 Then for Speech to Text I use Deepgram and set the lanuaguage to French and then I used ElevenLabs Multingual V2 model with a vocie trained in French as the final configuration. 
 
-The role of this Voicebot was to be able to sumbit service request forms based on details the client gives during calls, Book meetings with clients based on calednar avalability using cal.com and transfer call to live human if the customer ever prefers to talk to a live human
+The role of this Voicebot was to be able to sumbit service request forms based on details the client gives during calls, Book meetings with clients based on calendar availability using cal.com and transfer call to live human if the customer ever prefers to talk to a live human
 
 Here is a link to listen to a recording of the agent during a call 
 
